@@ -5,7 +5,6 @@ Here are some ideas to get you started:
 - 🔭 I’m currently studying on School of Computing Telkom University
 - 🌱 I’m currently learning Data Science
 - 👯 I’m looking to collaborate on Great Company
-- 🤔 I’m looking for help with My Parents
 
 Here's my skill
 - Basic Programming
